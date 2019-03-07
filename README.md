@@ -1,8 +1,9 @@
 # 1.9
 
-> A Vue.js project
+> A Vue.js project 这是一个简单的vue项目，模拟了贴吧发帖子的功能
 
-## Build Setup
+
+## 运行：： Build Setup
 
 ``` bash
 # install dependencies
@@ -17,3 +18,6 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # RePosts
+
+# 效果图见 screenshots目录
+
