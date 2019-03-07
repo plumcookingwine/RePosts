@@ -1,6 +1,7 @@
 # 1.9
 
-> A Vue.js project 这是一个简单的vue项目，模拟了贴吧发帖子的功能
+> A Vue.js project 这是一个简单的vue项目，模拟了贴吧发帖子的功能， 
+## 运行此项目需要安装nodejs，实现原理项目中注释写的很详细
 
 
 ## 运行：： Build Setup
